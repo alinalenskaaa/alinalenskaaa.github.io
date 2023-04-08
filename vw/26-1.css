@@ -1,0 +1,49 @@
+.logo-img{
+width: 80px;
+
+}
+
+.nav-link{
+color: navy;
+font-weight: 900;
+font-size: 1.1rem;
+
+}
+
+img{
+width: 100%;
+
+}
+
+.footer{
+background-color:rgb(14, 14, 63) ;
+padding: 30px, 0;
+margin-top:50px ;
+}
+
+.solio-link{
+font-size: 2rem;
+color: rgb(224, 224, 224);
+text-decoration: none;
+}
+
+.solio-link:hover{
+color: rgb(110, 110, 110);
+
+}
+
+.zoom:hover{
+transform: scale(1.5);
+
+}
+
+.zoom{
+transition: 0.5s;
+
+}
+
+.col-md-5{
+overflow: hidden;
+
+}
+
