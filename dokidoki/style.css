@@ -1,0 +1,149 @@
+.big-photo {
+    background: linear-gradient(to right, rgba(255, 189, 114, 0.363), rgba(182, 13, 13, 0.226)), url(MainMenu.webp);
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    background-size: cover;
+    background-position: center top;
+    font-family: monospace;
+    border-radius: 6%;
+
+}
+
+body {
+    color: rgb(99, 64, 64);
+    background: linear-gradient(to right, rgb(255, 226, 188), rgba(177, 50, 0, 0.623));
+}
+
+.fon-img {
+    padding: 20px 0;
+    margin: 30px 0;
+    background: linear-gradient(to right, rgba(143, 110, 73, 0.425), rgba(107, 71, 42, 0.644)), url(0acc07304c00995a4813c39f885a4716.png);
+
+}
+
+.nav-link {
+    color: rgb(117, 78, 78);
+    font-size: 1.2rem;
+    color: rgb(148, 90, 90);
+    transition: 0.3s;
+}
+
+.logo {
+    width: 100px;
+}
+
+img {
+    border-radius: 6px;
+    width: 100%;
+}
+
+.doki {
+
+
+    border-radius: 6%;
+}
+
+.Project {
+    width: 100%;
+    border-radius: 6%;
+
+}
+
+.play {
+    background: linear-gradient(to right, rgba(255, 189, 114, 0.363), rgba(182, 13, 13, 0.226)), url(ppp.jpg);
+    border: double;
+    border-radius: 15px;
+    font-family: monospace;
+    color: rgba(126, 82, 82, 0.966);
+}
+
+.sayori {
+    width: 40%;
+
+    border-radius: 6%;
+
+}
+
+.Yri {
+    width: 40%;
+
+    border-radius: 6%
+}
+
+.Natsuki {
+    width: 40%;
+
+    border-radius: 6%
+}
+
+.Monika {
+    width: 40%;
+
+    border-radius: 6%
+}
+
+.my-card {
+    text-align: center;
+    background-color: rgb(244, 244, 244);
+    padding: 15px;
+    border-radius: 15px;
+    height: 100%;
+    box-shadow: 0px 0px 15px rgb(99, 99, 99);
+    transition: 0.4s;
+}
+
+.my-card h2 {
+    color: rgba(73, 40, 51, 0.63);
+}
+
+
+
+.my-card:hover {
+    box-shadow: 0px 0px 9px 15px rgb(170, 170, 170);
+
+}
+
+.col-md-6 {
+    padding: 15px;
+
+}
+
+.song {
+    background: linear-gradient(to right, rgba(255, 189, 114, 0.363), rgba(182, 13, 13, 0.226)), url(ppp.jpg);
+    font-family: monospace;
+    text-align: center;
+    border: double;
+    border-radius: 15px;
+    color: rgba(126, 82, 82, 0.966);
+margin: 10px;
+padding: 15px;
+}
+
+.characters {
+    background: linear-gradient(to right, rgba(255, 189, 114, 0.363), rgba(182, 13, 13, 0.226)), url(ppp.jpg);
+    font-size: large;
+    border: double;
+    border-radius: 15px;
+}
+
+
+.footer {
+    background-color: rgba(194, 118, 118, 0.966);
+    padding: 40px, 0;
+    margin-top: 50px;
+}
+
+.solio-link {
+    font-size: 2.5rem;
+    color: rgba(239, 155, 155, 0.966);
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+.solio-link:hover {
+    color: rgba(159, 100, 100, 0.966);
+
+}
